@@ -59,6 +59,7 @@ def buscaminas(tablero,i,j):
                 n += 1
     return n
 print(buscaminas(tablero,i,j))
+#Gracias#
 
 
 
